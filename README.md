@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Musanza
-- 👀 I’m interested in system development and design
-- 🌱 I’m currently learning Advanced Javascript, Firebase and C++
-- 💞️ I’m looking to collaborate on web developments and graphics design
-- 📫 How to reach me at musanzag@gmail.com
+- 👀 I’m interested in system development and design, and network installations
+- 🌱 I’m always learning new staff, I beleive that learning is an exploration that never ends.
+- 💞️ I’m looking to collaborate on web developments, mobile apps development and graphics design
+- 📫 You can reach me at musanzag@gmail.com
